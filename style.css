@@ -6,7 +6,7 @@
 }
 
 .cabeçalho {
-    background-color: blueviolet;
+    background-color: #7e7e7e;
     color:white;
     display: flex;
     justify-content: space-around;
@@ -27,8 +27,8 @@
     width: 25%;
 }
 .escola{
-    background-image: linear-gradient( blueviolet, blueviolet);
-    color:white;
+    background-image: linear-gradient( #30189b, rgb(250, 0, 0));
+    color:rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     align-items: center;
